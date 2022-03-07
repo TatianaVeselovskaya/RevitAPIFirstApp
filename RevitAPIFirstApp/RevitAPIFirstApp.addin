@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIFirstApp.dll" </Assembly>
+		<AddInId> A7E2914A-B52C-4CA1-AF26-F6257BDE3C6D </AddInId>
+		<FullClassName> RevitAPIFirstApp.Main </FullClassName>
+		<VendorId> ADSK</VendorId>
+		<Text> Первое приложение для Revit </Text>
+	</AddIn>
+</RevitAddIns>
